@@ -39,9 +39,10 @@
         android:id="@+id/city_name_input"
         android:layout_width="283dp"
         android:layout_height="49dp"
+        android:autofillHints="city"
         android:ems="10"
         android:inputType="text"
-        android:text="Name"
+        android:hint="City Name"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 

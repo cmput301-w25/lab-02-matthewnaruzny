@@ -2,4 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="city_selected">#282828</color>
+    <color name="city_unselected">#00000000</color>
 </resources>
